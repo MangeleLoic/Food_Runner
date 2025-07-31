@@ -1,0 +1,166 @@
+[
+  {
+    "Id": 1,
+    "UtenteId": 0,
+    "NomeUtente": null,
+    "PiattiOrdinati": [],
+    "PrezzoOrdine": 0,
+    "DataOrdine": "2025-07-29T12:00:00",
+    "Stato": "Annullato"
+  },
+  {
+    "Id": 2,
+    "UtenteId": 2,
+    "NomeUtente": null,
+    "PiattiOrdinati": [
+      {
+        "Id": 3,
+        "NomePiatto": "Pollo alla Cacciatora",
+        "Prezzo": 15.5,
+        "ContieneAllergeni": false,
+        "Ingredienti": [
+          "pollo",
+          "pomodoro",
+          "olive",
+          "rosmarino",
+          "aglio"
+        ]
+      },
+      {
+        "Id": 7,
+        "NomePiatto": "Quattro Stagioni",
+        "Prezzo": 9.5,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "pomodoro",
+          "mozzarella",
+          "funghi",
+          "prosciutto",
+          "carciofi",
+          "olive"
+        ]
+      },
+      {
+        "Id": 9,
+        "NomePiatto": "Capricciosa",
+        "Prezzo": 9.0,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "pomodoro",
+          "mozzarella",
+          "prosciutto",
+          "funghi",
+          "carciofi",
+          "olive"
+        ]
+      }
+    ],
+    "PrezzoOrdine": 34.0,
+    "DataOrdine": "2025-07-29T17:40:06.8524619+02:00",
+    "Stato": "InPreparazione"
+  },
+  {
+    "Id": 3,
+    "UtenteId": 1,
+    "NomeUtente": null,
+    "PiattiOrdinati": [
+      {
+        "Id": 1,
+        "NomePiatto": "Pasta al Pomodoro",
+        "Prezzo": 8.5,
+        "ContieneAllergeni": false,
+        "Ingredienti": [
+          "pasta",
+          "pomodoro",
+          "basilico"
+        ]
+      },
+      {
+        "Id": 6,
+        "NomePiatto": "Margherita",
+        "Prezzo": 7.0,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "pomodoro",
+          "mozzarella",
+          "basilico"
+        ]
+      },
+      {
+        "Id": 9,
+        "NomePiatto": "Capricciosa",
+        "Prezzo": 9.0,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "pomodoro",
+          "mozzarella",
+          "prosciutto",
+          "funghi",
+          "carciofi",
+          "olive"
+        ]
+      },
+      {
+        "Id": 5,
+        "NomePiatto": "Zuppa di Lenticchie",
+        "Prezzo": 8.5,
+        "ContieneAllergeni": false,
+        "Ingredienti": [
+          "lenticchie",
+          "carote",
+          "sedano",
+          "cipolla",
+          "pomodoro"
+        ]
+      }
+    ],
+    "PrezzoOrdine": 33.0,
+    "DataOrdine": "2025-07-29T17:40:55.7064605+02:00",
+    "Stato": "InPreparazione"
+  },
+  {
+    "Id": 4,
+    "UtenteId": 2,
+    "NomeUtente": "Ivan Tedeschi",
+    "PiattiOrdinati": [
+      {
+        "Id": 4,
+        "NomePiatto": "Parmigiana di Melanzane",
+        "Prezzo": 13.5,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "melanzane",
+          "pomodoro",
+          "mozzarella",
+          "parmigiano"
+        ]
+      },
+      {
+        "Id": 2,
+        "NomePiatto": "Risotto ai Funghi",
+        "Prezzo": 12.0,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "riso",
+          "funghi",
+          "parmigiano",
+          "burro"
+        ]
+      },
+      {
+        "Id": 6,
+        "NomePiatto": "Margherita",
+        "Prezzo": 7.0,
+        "ContieneAllergeni": true,
+        "Ingredienti": [
+          "pomodoro",
+          "mozzarella",
+          "basilico"
+        ]
+      }
+    ],
+    "PrezzoOrdine": 32.5,
+    "DataOrdine": "2025-07-29T17:56:41.7079033+02:00",
+    "Stato": "InPreparazione"
+  }
+]

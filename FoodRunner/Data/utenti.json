@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Evelina Bianchi",
+    "Email": "eve.bianchi@example.com",
+    "DataDiNascita": "1991-08-15T00:00:00",
+    "Indirizzo": {
+      "Via": "Via Milano ",
+      "Civico": 10,
+      "Citta": "Genova",
+      "CAP": "16100"
+    }
+  },
+  {
+    "Id": 2,
+    "Nome": "Ivan Tedeschi",
+    "Email": "ivan.Ted@example.com",
+    "DataDiNascita": "1991-08-15T00:00:00",
+    "Indirizzo": {
+      "Via": "Via Sturaro ",
+      "Civico": 19,
+      "Citta": "Varese",
+      "CAP": "21165"
+    }
+  },
+  {
+    "Id": 3,
+    "Nome": "Mario Rossi",
+    "Email": "mario.rossi@example.com",
+    "DataDiNascita": "1985-06-15T00:00:00",
+    "Indirizzo": {
+      "Via": "Via Roma",
+      "Civico": 10,
+      "Citta": "Genova",
+      "CAP": "16100"
+    }
+  }
+]

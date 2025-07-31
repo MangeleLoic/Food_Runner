@@ -1,0 +1,16 @@
+[2025-07-29 17:25:14] Aggiunto un nuovo utente: Evelina Bianchi
+[2025-07-29 17:26:24] Aggiunto un nuovo utente: Ivan Tedeschi
+[2025-07-29 17:30:29] Aggiunto un nuovo piatto al menu: Risotto ai Funghi
+[2025-07-29 17:31:33] Aggiunto un nuovo piatto al menu: Pollo alla Cacciatora
+[2025-07-29 17:32:28] Aggiunto un nuovo piatto al menu: Parmigiana di Melanzane
+[2025-07-29 17:32:45] Aggiunto un nuovo piatto al menu: Zuppa di Lenticchie
+[2025-07-29 17:33:00] Aggiunto un nuovo piatto al menu: Margherita
+[2025-07-29 17:33:26] Aggiunto un nuovo piatto al menu: Quattro Stagioni
+[2025-07-29 17:34:33] Aggiunto un nuovo piatto al menu: Diavola
+[2025-07-29 17:34:49] Aggiunto un nuovo piatto al menu: Capricciosa
+[2025-07-29 17:40:06] Ordine creato con ID: 2
+[2025-07-29 17:40:55] Ordine creato con ID: 3
+
+[2025-07-29 17:56:41] Ordine creato con ID: 4
+[2025-07-30 15:47:33] Stato ordine 1 aggiornato a Annullato
+[2025-07-30 17:08:49] Aggiunto un nuovo piatto al menu: Lasagne al Ragu
