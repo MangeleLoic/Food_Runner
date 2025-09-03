@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner\\FoodRunner.csproj": {}
+    "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner\\FoodRunner.csproj": {
+    "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner\\FoodRunner.csproj",
+        "projectUniqueName": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner.csproj",
         "projectName": "FoodRunner",
-        "projectPath": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner\\FoodRunner.csproj",
+        "projectPath": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner.csproj",
         "packagesPath": "C:\\Users\\devops3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\FoodRunner\\obj\\",
+        "outputPath": "C:\\Users\\devops3\\Documents\\GitHub\\Food_Runner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devops3\\AppData\\Roaming\\NuGet\\NuGet.Config"
